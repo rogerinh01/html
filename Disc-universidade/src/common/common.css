@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'dc1';
+    src: url(/src/assets/fonts/dc1.woff2);
+}
+
+@font-face {
+    font-family: 'dc2';
+    src: url(/src/assets/fonts/dc2.woff2);
+}
+
+@font-face {
+    font-family: 'dc3';
+    src: url(/src/assets/fonts/dc3.woff2);
+}
+
+@font-face {
+    font-family: 'dc4';
+    src: url(/src/assets/fonts/dc4.woff2);
+}
+
+@font-face {
+    font-family: 'dc5';
+    src: url(/src/assets/fonts/dc5.ttf);
+}
+
+@font-face {
+    font-family: 'dc6';
+    src: url(/src/assets/fonts/dc6.woff2);
+}
+
+@font-face {
+    font-family: 'dc7';
+    src: url(/src/assets/fonts/dc7.ttf);
+}
+
+@font-face {
+    font-family: 'dc8' ;
+    src: url(/src/assets/fonts/dc8.ttf);
+}
+
+@font-face {
+    font-family: 'dc9' ;
+    src: url(/src/assets/fonts/dc9.woff2);
+}
+
+@font-face {
+    font-family: 'dc10';
+    src: url(/src/assets/fonts/dc10.woff2);
+}

@@ -1,0 +1,404 @@
+.secao-01 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 0px 130px 0px;
+    color: #fff;
+    background-image: url('../../assets/images/fundo.svg');
+    background-size: cover;
+    background-position: -430px 0px;
+    background-color: #404eed;
+    position: relative;
+    overflow: hidden;
+}
+
+.secao-01  a {
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.s1-tenis {
+    position: absolute;
+    bottom: 0px;
+    left: -100px;
+}
+
+.s1-suco {
+    position: absolute;
+    bottom: 0px;
+    right: -50px;
+}
+
+.s1-cabecalho {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 1280px;
+    margin-bottom: 140px;
+    padding: 7px;
+}
+
+.s1-cabecalho > a {
+    font: 14px 'discord3';
+    background-color: #fff;
+    color: #23272a;
+    padding: 10px 14px;
+    border-radius: 30px;
+    margin: 0px 10px;
+}
+
+.secao-01 > a:hover {
+    box-shadow: 0px 8px 15px rgb(0 0 0 / 20%);
+    color: #5865f2;
+}
+
+.s1-menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.s1-menu a {
+    margin: 5px 20px;
+    font: 16px 'font4';
+}
+
+.s1-menu a:hover {
+    text-decoration: underline;
+}
+
+.secao-01 > h1 {
+    font: 56px  'font1';
+    width: 800px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.secao-01 > p {
+    font: 20px 'font2';
+    width: 780px;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 30px
+}
+
+.s1-botoes {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.logi > a {
+
+    font-family: 'font2';
+    background-color: #fff;
+    color: black;
+    border-radius: 20px;
+    padding: 7px 11px;
+
+}
+
+
+
+
+
+.stre {
+
+    
+    display: flex;
+    align-self: flex-start;
+    flex-direction: row;
+    width: 100px;
+    font-family: 'font1';
+    position: relative;
+    left: 180px;
+    top: 30px;
+
+}
+
+.tex {
+
+    display: flex;
+    align-self: flex-start;
+    padding: 29px;
+    font-family: 'font1';
+    padding: 50px 0px 0px 200px;
+
+}
+
+
+
+
+
+
+.secao-02 {
+
+    
+    padding: 145px;
+
+
+}
+
+.sub > .linha > .card {
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+.h {
+
+    font-family: 'font4';
+    margin: 10px;
+
+
+}
+
+.p1 {
+
+    width: 850px;
+    font-family: 'font2';
+    margin: 20px;
+
+
+}
+
+
+.linha {
+
+    display: flex;
+    text-align: center;
+
+}
+
+.card > h1 {
+
+    display: flex;
+    color: blue;
+    font: 10px 'font4';
+    font-size: 26.6px;
+    margin: px;
+    margin-bottom: 10px;
+    
+
+}
+
+.card > p {
+
+    width: 300px;
+    font-family: 'font3';
+    font: 100px;
+}
+
+.card {
+
+    margin: 70px;
+
+
+}
+
+article{
+    background-color: #ececec;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    }
+
+    article > h1{
+    font-family: 'font1';
+    font-size: 45px;
+    padding: 100px 0px 30px 0px;
+    }
+    
+    article > p{
+    font-size: 20px;
+    font-family: 'font2';
+    padding: 0px 0px 80px 0px;
+    width: 1350px;
+    text-align: center;   
+    }
+
+    article > div {
+
+        display: flex;
+        flex-direction: row;
+
+    }
+
+
+
+    article > div > section{
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 600px;
+    height: 720px;
+    border-radius: 15px;
+    align-items: center;
+    text-align: center;
+    margin: 20px 20px;
+    justify-content: center;
+        
+     }
+
+    
+    article > div > section > h1{
+    font-family: 'font5';
+    width: 600px;
+    font-size: 35px;
+    }
+    
+    article > div > section > h2{
+    font-size: 16px;
+    width: 370px;
+    padding: 10px 0px;
+    font-family: 'font2';
+    font-weight: 100;
+    
+    }
+    article > div > section > p{
+        font-size: 14px;
+        width: 370px;
+        padding: 10px 0px;
+        font-family: 'font2';
+        text-align: left;
+
+    }
+
+    article > div > section > a {
+
+        background-color: #5865f2;
+        color: #fff;
+        border-radius: 20px;
+        padding: 10px;
+        text-decoration: none;
+        font-family: 'font3';
+    }
+
+    
+    
+
+    .quad {
+        width: 80px;
+    }
+
+    .ultimo {
+        position: relative;
+        right: 320px;
+
+    }
+
+    article > div > section > p > svg{
+        color: #43b581;
+    }
+
+    article > div > section > .link {
+
+        text-decoration: none;
+        text-align: center;
+        text-decoration: none;
+        color: cornflowerblue;
+    }
+
+
+
+    .rodape {
+        overflow: hidden;
+        background-color: #23272a;
+        width: 200.5vh;
+        height: 30vw;
+        flex-direction: row;
+
+    }
+
+    .rodape > .ima {
+
+        padding: 100px;
+    }
+
+    .rodape > .ima > h1 {
+
+        color: #404eed;
+        font: 0px 'font1';
+        font-size: 50px;
+        width: 600px;
+
+    }
+
+    .rodape > .ima > .p2 {
+
+        display: flex;
+        
+
+    }
+
+    .espaco {
+
+        margin-right: 15px;
+        color: #fff;
+    }
+
+    
+
+    .rodape > div > a {
+
+        font-family: 'font2';
+        margin: 10px;
+        font-size: 15px;
+        color: #fff;
+        text-decoration: none;
+        
+
+    }
+
+    .rodape > div > h1 {
+
+        font-family: 'font2';
+        margin: 10px;
+        color: rgb(0, 16, 163);
+
+    }
+
+    .rodape > div {
+
+        font-family: 'font2';
+        text-decoration: none;
+        padding: 100px 100px 0px 0px;
+    }
+
+    .baixo {
+        overflow: hidden !important;
+        background-color: #23272a;
+        width: 199vh;
+        height: 5vw;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0px 215px 0px 235px;
+        color: #fff;
+    }
+
+    h4 {
+        background-color: #23272a;
+        color: rgb(12, 2, 215);
+        display: flex;
+        width: 199vh;
+        height: 3vw;
+        justify-content: center;
+    }
+
+    .baixo > a {
+        color: #fff;
+        background-color: #5865f2;
+        border-radius: 25px;
+        padding: 10px;
+        margin: 20px;
+        font-family: font4;
+    }
+
+
+   
+
+    
